@@ -1,0 +1,21 @@
+-,Sense Element <E>,Elemental Fists <E>,Absorb Element <E>,Chemtrail <E>,Elemental Fists <E>,#Elemental Armor I-III <E>,Trail <E>,Teletrail <E>,-,-,-,-,Elemental Resistance <E>,Elemental Theft <E>,-,Elemental Summoning <E>,Elemental Explosions <E>,Control Specialty <E>+Elemental Resistance <E>,Resist Element <E>,#Charged Elemental Combat <E>+Elemental Combat I-II <E>
+Sense Element <E>,-,#Critical Thinking,-,-,Critical Thinking,-,Sense Movement,-,Sense Structure,-,-,-,Sense Powers,-,-,-,-,-,Sense Life,#Clairvoyance Charge+Sensibility
+-,-,-,-,-,-,-,-,-,-,Strong Force Field,-,-,-,-,Force Shout,Strong Summoning,-,-,-,#Muscle Charge
+Absorb Element <E>,-,-,-,-,-,Armor Regeneration,-,-,#Extradimensional Body,Force Field Kinesis,-,-,-,-,-,Absorb Summons,-,-,#Restoration Blast,#Charged Regeneration
+-,-,-,-,-,-,-,Pushy Fists,-,Elemental Combat I <Wind>,Mobile Force Field,-,-,-,-,-,-,-,-,-,#Divebomb
+-,-,-,-,-,-,-,-,-,Precision I,Force Field Kinesis,-,-,-,-,-,-,-,Twitch,-,#Dexterity Charge
+-,-,-,Armor Regeneration,-,-,-,-,-,Toughness I,-,-,-,Power Resistance,-,-,Elemental Summoning <Earth>,Implode Defenses,-,-,#Charged Armor
+Trail <E>,-,Pushy Fists,#Kinetic Regeneration,#Telekinetic Flight,-,-,-,#Trickst,-,-,-,-,-,-,-,-,Elastic,-,-,#Kinetic Charge
+Elemental Teleport <E>,-,-,-,#Telekinetic Flight,-,-,-,-,-,Wide Force Field,-,-,-,-,-,Summon Swap,-,-,-,#Slash Dash
+-,-,-,#Extradimensional Body,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,#Ghost Mode Charge
+-,-,Shattering Fists,-,-,-,#Elemental Armor I-III <Energy>,-,-,#Ethereal Poison+Ghost Mode I,-,-,-,-,-,Force Shout,Strong Summoning,-,-,-,#Charged Force Field+Force Shield
+-,-,-,-,-,Chronobiology,Chronostability,Slow World,-,-,-,-,Chronostability,-,-,-,-,-,-,-,#Time Freeze Blast
+-,-,-,-,-,Dexterousness,Armor Regeneration,Repeat I,Repeat I,-,-,Chronostability,-,-,-,-,Absorb Summons,#Recurring Explosion,-,-,#Deja Vu
+Elemental Void,Sense Powers,Sapping Fists,-,-,-,-,-,-,-,-,-,-,-,#Steal Power,-,-,Unstable Explosions,Mind Twitch,-,#Null Blast
+Absorb Element <E>,-,Vampiric Fists,-,-,-,#Absorb Armor,-,-,-,-,-,-,#Steal Power,-,-,Absorb Summons,-,-,-,#Charge Too Much+Sense Powers
+-,-,-,-,Elemental Combat I <Energy>,-,-,-,-,-,Elemental Combat I <Energy>,-,-,-,-,-,-,-,Traitor Illusion,-,#Escalating Scream
+-,-,-,-,-,-,-,-,#Teleclone,-,-,-,-,-,-,-,-,-,-,-,#Clone Party
+Exploding Ball <E>,-,#Explosive Fists,-,Chemtrail <Fire>,-,#Reactive Explosions,Trail <Fire>,Teletrail <Fire>,-,-,-,#Recurring Explosion,-,-,#Flashbang,-,-,-,#Restoration Blast,#Charged Explosion
+-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,Traitor Illusion,-,-,-,-,#Stun Blast
+Friendly Fire <E>,-,Buff Strength,#Heal II,-,-,Buff Armor,Buff Evasion,-,-,Bubble Target,-,-,Buff Power,-,-,Strong Summoning,Bubble Target,Divert Attention,-,#Muscle Charge
+#Charged Elemental Combat <E>+Elemental Combat I-II <E>,Clairvoyance Charge,#Muscle Charge,#Charged Regeneration,#Divebomb,Dexterity Charge,#Charged Armor,#Kinetic Charge,#Slash Dash,#Ghost Mode Charge,#Charged Force Field+Force Shield,#Time Freeze Blast,#Deja Vu,#Null Blast,#Charge Too Much+Sense Powers,#Escalating Scream,#Clone Party,#Explosion Charge,#Stun Blast,#Muscle Charge,-

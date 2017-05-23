@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ba696803b187d424aab6f45c62a142b3
+timeCreated: 1488650759
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: MatrixBoldSmallCaps
+  fontNames:
+  - MatrixBoldSmallCaps
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
