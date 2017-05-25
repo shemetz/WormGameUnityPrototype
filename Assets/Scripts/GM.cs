@@ -13,7 +13,7 @@ public class GM : MonoBehaviour
     {
         Ability.initializeDescriptions();
         Block.initializeStrings();
-
+        
         //Create player
         player = new GameObject();
         player.name = "The Player";
@@ -21,12 +21,12 @@ public class GM : MonoBehaviour
         player.AddComponent<PlayerHotkeys>();
         Camera.main.gameObject.AddComponent<CameraFollow>().target = player.transform;
         player.transform.position = new Vector3(3, 3);
-
+        
         //Create environment
         env = new GameObject().AddComponent<Environment>();
         env.name = "Environment";
         env.init();
-
+        
         Cursor.SetCursor(Resources.Load("temp/Cursor") as Texture2D, new Vector2(1, 1), CursorMode.ForceSoftware);
     }
 }

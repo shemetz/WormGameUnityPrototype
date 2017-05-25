@@ -438,14 +438,14 @@ public class Ability : MonoBehaviour
             while (line != null && !line.Equals("") && !line.Equals("\r") && !line.Equals("\n"))
             {
                 s += line + "\n";
-                if (i + 1 >= text.Length)
-                    break;
                 i++;
+                if (i >= text.Length)
+                    break;
                 line = text[i];
             }
             s = s.substring(0, s.Length - 1); // remove final paragraph break
             descriptions.Add(s);
-            while (text[i].Length <= 1 && i < text.Length)
+            while (i < text.Length && text[i].Length <= 1)
                 i++;
         }
         while (i < text.Length);
